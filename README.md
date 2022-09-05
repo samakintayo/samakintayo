@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Software Development projects, FrontEnd and BAckend Projects and XR Development projects.
 - 📫 You can reach me via 
 - Twitter - @sam_akintayo
-- Whatsapp - +234(0)818510875
+- Whatsapp - +234(0)8185108075
 - Instagram - @akinmeansbusiness_
 
 <!---
