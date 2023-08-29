@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akintayo A.
-- 
+- Stack- JS, NodeJS, MangoDB
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning React JS,
 - 💞️ I’m looking to collaborate on Software Development projects, FrontEnd and BAckend Projects and XR Development projects.
