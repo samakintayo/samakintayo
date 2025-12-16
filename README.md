@@ -2,7 +2,7 @@
 - Stack- JS, NodeJS, postgres
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning React JS,
-- 💞️ I’m looking to collaborate on Software Development projects, FrontEnd and BAckend Projects and XR Development projects.
+- 💞️ I’m looking to collaborate on Software Development projects, FrontEnd and Backend Projects and XR Development projects.
 - 📫 You can reach me via 
 - Twitter - @sam_akintayo
 - Whatsapp - +234(0)8185108075
