@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akintayo A.
-- Stack- Node.js, Express.js, Python, Django, DevOps, C, SQL, React Native, React.js (Proficiency: Intermediate) 
+- Stack- Node.js, Express.js, Python, Django, DevOps, C, SQL, React Native, React.js, Postgres, MongoDB (Proficiency: Intermediate) 
 AI Automation using n8n and Make
 - 👀 I’m interested in building AI solutions/technology
 - 🌱 I’m currently diving into AI Automation
